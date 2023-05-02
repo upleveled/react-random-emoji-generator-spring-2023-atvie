@@ -1,0 +1,19 @@
+.App {
+  background-color: #444;
+  padding: 40px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App > div {
+  background-color: #666;
+  padding: 60px 20px;
+  margin: 20px;
+  border-radius: 20px;
+  width: 300px;
+  height: 200px;
+  font-size: 30px;
+  text-align: center;
+}
